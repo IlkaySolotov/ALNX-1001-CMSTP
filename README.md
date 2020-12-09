@@ -4,7 +4,7 @@ Win-UAC-Bypass ALNX-1001-CMSTP
 ```yaml
 TargetOS: Win10
 TestedOn: 2004 SO 19041.685
-Language: C#/.NET 6.1
+Language: .NET 6.1
 Patch: n/a
 Danger: 4
 Classification: ALNX-1001-CMSTP
